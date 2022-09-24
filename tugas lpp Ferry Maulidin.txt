@@ -3,11 +3,11 @@ print("LOGIN PAGE")
 print()
 print("Type in 'enter()' to continue")
 
-username_1 = "Yulizar"
+username_1 = "Ferry"
 password_1 = "UPNVJ2022"
-username_2 = "Lilik"
+username_2 = "Zaki"
 password_2 = "2022UPNVJ"
-username_3 = "Halim"
+username_3 = "Taufik"
 password_3 = "UPN2022VJ"
 
 def enter() :
@@ -65,24 +65,24 @@ enter()
 ```
 
     Type 'Login' to enter login info :  Login
-    Input a username :  Yulizar
+    Input a username :  Ferry
     Input password :  UPNVJ2022
     
 
     status_login = active
-    Halo, Yulizar
+    Halo, Ferry
     
 
-    Masukkan Nama Mahasiswa yang akan di grading :  Nikolas Virnandi Anggoro Putra
+    Masukkan Nama Mahasiswa yang akan di grading : Ferry Maulidin
     Nama Mata Kuliah :  LPP
     Silahkan Masukkan nilai Presensi :  100
     Silahkan Masukkan nilai Tugas :  100
     Silahkan Masukkan nilai UTS :  100
     Silahkan Masukkan nilai UAS :  100
-    
 
-    ['Nikolas Virnandi Anggoro Putra', 'LPP', '100', '100', '100', '100']
-    Mahasiswa Nikolas Virnandi Anggoro Putra mendapatkan nilai A untuk Mata Kuliah LPP dengan skor total 100.0
+
+    ['Ferry Maulidin', 'LPP', '100', '100', '100', '100']
+    Mahasiswa Ferry Maulidin mendapatkan nilai A untuk Mata Kuliah LPP dengan skor total 100.0
     
 
 
