@@ -1,5 +1,5 @@
-uname_masuk = 'Putri Siva Fauziah'
-password_masuk = 'putri2906'
+uname_masuk = 'Putri Siva Fauziahi'
+password_masuk = 'putri2929'
 
 print("Masukkan Username dan Password :")
 user_name_Putri= input('Username :')
@@ -41,7 +41,7 @@ else :
 
 #OUTPUT
 #Username :Putri Siva Fauziah
-#Password :putri2906
+#Password :putri2929
 
 
 #satus login = active
