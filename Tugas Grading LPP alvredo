@@ -6,7 +6,7 @@ user_name_Alvredo= input('Username :')
 password_Alvredo = input('Password : ')
 print("\n")
 
-if uname_masuk == user_name_fuad and password_masuk == password_Alvredo :
+if uname_masuk == user_name_Alvredo and password_masuk == password_Alvredo :
     print('status_login = active')
     print('Halo ' + username_1)
     print('Nama mata kuliah:')
