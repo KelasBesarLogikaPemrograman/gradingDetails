@@ -37,7 +37,7 @@ if user_name == username_1 and pass_word == password_1 :
     print ("\n")
     print ("Mahasiswa", X, "mendapatkan nilai", Y, "untuk Mata Kuliah", Z, "dengan skor total", total_nilai)
 else :
-    print ("Login failed, please check your username or password")
+    print ("Login failed, please check your username or password.")
 
 #OUTPUT
 #please insert your username and password to login:
