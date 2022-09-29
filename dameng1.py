@@ -1,3 +1,11 @@
+user = raw_input ("username:    ")
+import getpass
+sandi = getpass.getpass()
+if sandi == '1234' and user == 'dameng':
+    print "anda telah login"
+else: 
+    print "username atau password anda salah"
+
 nama=raw_input("masukkan nama mahasiswa    :")
 matakuliah=raw_input("mata kuliah    :")
 presensi=input("masukkan nilai presensi    :")
@@ -20,6 +28,7 @@ printf"uts   : %d"%uts
 printf"uas   : %d"%uas
 printf"nilai akhir   : %d",float(nilai_akhir)
 
+nilai {
 if nilai_akhir >= 85:
     print "n\nilai huruf : a"
 elif nilai_akhir >= 70:
@@ -30,4 +39,6 @@ elif nilai_akhir >= 30:
     print "n\nilai huruf : d"
 elif nilai_akhir >= 0:
     print "n\nilai huruf : d"
+}
 
+print("mahasiswa{}".format(nama) "mendapatkan nilai{}".format(nilai) "untuk mata kuliah{}".format(matakuliah) "dengan skor total{}".format(nilai_akhir))
