@@ -37,7 +37,7 @@ if uname_masuk == user_name_ridha and password_masuk == password_ridha :
 
     print('Mahasiswa', X, "Mendapatkan", Y, "Untuk mata kuliah", Z, "dengan mata kuliah", total_nilai)
 else :
-    print('Error 505')
+    print('Error 404')
 
 #OUTPUT
 #Username :Ridha Amira
