@@ -55,4 +55,4 @@ else :
 #Silahkan Masukkan nilai UAS : 98
 
 
-#Mahasiswa dicky dwi saputra mendapatkan nilai A untuk Mata Kuliah Logika Pemogramman  dengan skor total 98.0
+#Mahasiswa dicky dwi saputra mendapatkan nilai A untuk Mata Kuliah Logika Pemogramman  dengan skor total 98.00
